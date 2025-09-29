@@ -23,6 +23,7 @@ Nesse contexto, o Easy Flights traz como proposta a possibilidade do compartilha
 colaborativa a qual retornaria sugestões de horários alternativos para os usuários (Pilotos e operadores de helicópteros)
 aumentando a consciência situacional dos usuários nessa porção do espaço aéreo, tornando-a mais segura e eficiente.
 
+Link para o MIRO: https://miro.com/app/board/uXjVJFSYIhg=/
 
 
 
